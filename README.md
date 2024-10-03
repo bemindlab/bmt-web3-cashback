@@ -59,3 +59,29 @@ The platform’s tokenomics will ensure a balanced supply and demand model, supp
 ## Conclusion
 
 The Web3 Cashback Platform provides a revolutionary way for users to earn tokens from their online shopping and engagement with merchants. By leveraging blockchain technology, it offers a secure, transparent, and efficient way to manage cashback rewards. With the initial launch on the BNB Chain, users will benefit from low fees and fast transaction times, ensuring a smooth experience from earning to claiming tokens.
+
+
+## Support Our Project
+
+If you find our project valuable and would like to contribute to its continued development, you can support us through donations. Your support helps fund further development, server costs, and enhancements to the platform.
+
+### How to Donate
+
+- **Bitcoin (BTC)**: `3P7RK8RhCXdNHri9ZSQDBoiowAiPzzVvi2`
+- **Ethereum (ETH)**: `0xCB38008b5859994FD7b64ab2aDAC5696c1e68D2e`
+- **Binance (BNB)**: `0xCB38008b5859994FD7b64ab2aDAC5696c1e68D2e`
+
+Every contribution, no matter the size, helps us bring new features and improvements to the platform. 
+Thank you for supporting Web3 Cashback Project and being part of our journey to revolutionize online cashback!
+
+If you have any questions or need assistance, feel free to reach out to us at: `info@bemind.tech`.
+
+### Why Donate?
+
+Your donations directly support:
+
+- Ongoing platform development
+- Security and infrastructure maintenance
+- Expanding to more blockchains and services
+
+Thank you for considering supporting us!
